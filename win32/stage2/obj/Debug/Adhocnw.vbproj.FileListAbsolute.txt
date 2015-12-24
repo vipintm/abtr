@@ -1,4 +1,0 @@
-C:\VipinM\work\ABTR\src\win32\stage2\obj\Debug\ResolveAssemblyReference.cache
-C:\VipinM\work\ABTR\src\win32\stage2\obj\Debug\Project1.Form1.resources
-C:\VipinM\work\ABTR\src\win32\stage2\obj\Debug\Project1.Form2.resources
-C:\VipinM\work\ABTR\src\win32\stage2\obj\Debug\Adhocnw.vbproj.GenerateResource.Cache
